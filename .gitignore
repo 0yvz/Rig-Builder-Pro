@@ -1,0 +1,19 @@
+# Sanity
+sanity.json
+sanity.js
+sanity-auth.json
+.sanity/*/.cache
+.sanity/*/.tmp
+.sanity/*/*.db
+.sanity/*/*.lock
+.sanity/*/*.log
+.sanity/*/*.log.*
+.sanity/*/*.pid
+.sanity/*/*.sock
+.sanity/*/*.sqlite
+.sanity/*/*.sqlite-shm
+.sanity/*/*.sqlite-wal
+
+node_modules
+
+.ds_store

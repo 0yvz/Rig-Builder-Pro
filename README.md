@@ -9,6 +9,9 @@ RigBuilderPro is a school project that provides a fully functional e-store for c
 
 In addition to the store, RigBuilderPro also includes a unique feature that allows users to build their own PC based on the components in the database. This feature makes it easy for users to select the components they need and see how they fit together to create a customized PC.
 
+## Deployment
+The project is deployed on [Netlify](https://rigbuilderpro.netlify.app) and the source code can be found on [GitHub](https://github.com/0yvz/Rig-Builder-Pro).
+
 ## Installation
 To use RigBuilderPro, you will need to have the following installed on your machine:
 

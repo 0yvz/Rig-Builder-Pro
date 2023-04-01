@@ -1,8 +1,33 @@
 .header {
-}
-
-.header__navigation {
-}
-
-.header__navigation--visible {
-}
+	background-color: var(--header-background-color);
+	color: var(--header-text-color);
+ }
+ 
+ .header__logo {
+	display: inline-block;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 10px;
+ }
+ 
+ .header__nav {
+	display: inline-block;
+	margin-left: auto;
+	padding: 10px;
+ }
+ 
+ .header__nav-item {
+	display: inline-block;
+	margin-right: 10px;
+	text-transform: uppercase;
+ }
+ 
+ .header__nav-link {
+	color: var(--header-text-color);
+	text-decoration: none;
+ }
+ 
+ .header__nav-link:hover {
+	text-decoration: underline;
+ }
+ 

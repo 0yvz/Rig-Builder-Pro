@@ -12,10 +12,9 @@ In addition to the store, RigBuilderPro also includes a unique feature that allo
 ## Installation
 To use RigBuilderPro, you will need to have the following installed on your machine:
 
-```
-Node.js
-Git
-```
+* Node.js
+* Git
+
 
 Once you have these dependencies installed, follow these steps:
 

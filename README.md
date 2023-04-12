@@ -5,7 +5,7 @@
 </p>
 
 
-RigBuilderPro is a school project that provides a fully functional e-store for computer components. It is built using Sanity CMS, which allows for easy management and maintenance of the database.
+RigBuilderPro is a school project that ~~provides a fully functional e-store for computer components~~. It is built using Sanity CMS, which allows for easy management and maintenance of the database.
 
 In addition to the store, RigBuilderPro also includes a unique feature that allows users to build their own PC based on the components in the database. This feature makes it easy for users to select the components they need and see how they fit together to create a customized PC.
 

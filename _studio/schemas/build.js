@@ -25,7 +25,7 @@ export default {
 		 title: 'Memory',
 		 name: 'memory',
 		 type: 'reference',
-		 to: [{type: 'ram'}],
+		 to: [{type: 'memory'}],
 	  }
 	]
  }

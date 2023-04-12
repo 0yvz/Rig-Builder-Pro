@@ -1,6 +1,6 @@
 export default {
 	title: 'RAM',
-	name: 'ram',
+	name: 'memory',
 	type: 'document',
 	fields: [
 	  {

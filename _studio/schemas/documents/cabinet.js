@@ -1,6 +1,6 @@
 export default {
 	title: 'Case',
-	name: 'case',
+	name: 'cabinet',
 	type: 'document',
 	fields: [
 	  {
@@ -133,7 +133,7 @@ export default {
 		 brand: 'brand',
 		 model: 'model',
 		 color: 'color',
-		
+		 caseType: 'caseType'
 	  }
 	}
 }

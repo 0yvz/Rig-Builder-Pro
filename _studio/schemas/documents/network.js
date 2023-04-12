@@ -1,6 +1,6 @@
 export default {
 	title: 'Network Card',
-	name: 'networkCard',
+	name: 'network',
 	type: 'document',
 	fields: [
 	  {

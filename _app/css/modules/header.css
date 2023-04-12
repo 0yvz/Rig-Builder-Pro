@@ -1,18 +1,19 @@
 .header {
 	background-color: var(--header-background-color);
+	background: var(--header-background-color);
 	color: var(--header-text-color);
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 11.5vh;
+	height: 8vh;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-	z-index: 9999;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	z-index: 999;
  }
  
  .header__logo {
 	width: auto;
-	height: 10vh;
 	float: left;
 	object-fit: contain;
  }
@@ -24,7 +25,9 @@
  
  .header__nav-item {
 	display: inline-block;
-	margin-right: 10px;
+	margin-right: 40px;
+	padding: auto;
+	justify-items: end;
 	text-transform: uppercase;
  }
  

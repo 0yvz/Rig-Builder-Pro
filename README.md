@@ -24,7 +24,7 @@ Once you have these dependencies installed, follow these steps:
 Clone the repository using the following command:
 
 ```
-git clone https://github.com/Madsemilf/RigBuilderPro.git
+git clone https://github.com/oyvz/rig-builder-pro.git
 ```
 
 Navigate to the project directory:

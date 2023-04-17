@@ -25,6 +25,7 @@
  .header__nav {
 	float: right;
 	margin-top: 20px;
+	margin-right: 60px;
  }
  
  .header__nav-item {
